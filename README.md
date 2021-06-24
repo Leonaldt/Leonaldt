@@ -4,3 +4,5 @@
 
 [![Leonaldt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonaldt&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonaldt&layout=compact)](https://github.com/Leonaldt/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonaldt&repo=github-readme-stats)](https://github.com/Leonaldt/github-readme-stats)
