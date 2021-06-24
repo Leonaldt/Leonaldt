@@ -1,7 +1,6 @@
 ### Hi there 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Leonaldt.Leonaldt)
-(https://github.com/Leonaldt) [![GitHub followers](https://img.shields.io/github/followers/Leonaldt.svg?style=social&label=Follow&maxAge=2592000)]
-(https://github.com/Leonaldt?tab=followers)
+[Visitor](https://visitor-badge.laobi.icu/badge?page_id=Leonaldt.Leonaldt)
+[GitHub followers](https://img.shields.io/github/followers/Leonaldt.svg?style=social&label=Follow&maxAge=2592000)
 
 <!--
 **Leonaldt/Leonaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
