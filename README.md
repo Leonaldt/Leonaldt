@@ -14,8 +14,6 @@
             alt="Gmail" height="40"></a>
 </p>
 
-<br />
-
 ## 🧰 Languages and Tools:
 <p>
     <img src="https://camo.githubusercontent.com/c9e69187b887fa0d0ce77d46f960a8e6772a77e60eddbc8f8d30e3c8293131da/68747470733a2f2f73766773686172652e636f6d2f692f5573712e737667"
