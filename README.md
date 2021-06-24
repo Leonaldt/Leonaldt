@@ -10,9 +10,9 @@
 <p>
     <a href="https://linkedin.com/in/leônidas-o-lima-0479b6108" target="_blank" rel="noopener noreferrer"> <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40"
-            style="vertical-align:top; margin:4px; margin-right: 15px;"></a>
+            style="margin-right: 150px;"></a>
     <a href="mailto:leonidas.ollima@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
-            alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+            alt="Gmail" height="40"></a>
 </p>
 
 <br />
