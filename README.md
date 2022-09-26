@@ -52,4 +52,4 @@
         alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-### My personal portifolio -> ([Link](https://leonaldt.github.io/))
+### [My personal portifolio](https://leonaldt.github.io/)
