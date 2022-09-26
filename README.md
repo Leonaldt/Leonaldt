@@ -53,4 +53,4 @@
 </p>
 
 ### My personal portifolio
-![Portifolio](https://leonaldt.github.io/)
+[Link](https://leonaldt.github.io/)
